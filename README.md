@@ -1,5 +1,5 @@
 # Operating-Lab-3---Tasks
-# Operating Systems Lab 03 - Batch Scripting
+# Topic : Batch Scripting
 
 This repository contains all the tasks from **Lab 03 (Batch Scripting & Windows Automation)**.
 Each task is written as a separate `.bat` file that can be run on Windows.
