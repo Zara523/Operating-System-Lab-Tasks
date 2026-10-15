@@ -1,4 +1,4 @@
-# Operating-Lab-3---Tasks
+# Operating-Lab-3-Tasks
 # Topic : Batch Scripting
 
 This repository contains all the tasks from **Lab 03 (Batch Scripting & Windows Automation)**.
